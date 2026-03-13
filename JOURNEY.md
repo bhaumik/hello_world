@@ -12,9 +12,16 @@ A walkthrough of [@bhaumik](https://github.com/bhaumik)'s public repositories in
 An early fork of a JavaScript library for real-time facial feature tracking in the browser. Signals an interest in computer vision and front-end experimentation.
 
 ### [guide-programming-fundamentals-in-python](https://github.com/bhaumik/guide-programming-fundamentals-in-python)
-**Language:** — | **Forks:** 10 | **Updated:** December 2014
+**Language:** — | **Forks:** 10 | **Created:** December 2014
 
-A concise introduction to programming fundamentals using Python. One of the earliest guides published, this repo picked up 10 forks — a sign that others found it useful as a learning resource.
+An original guide — written by bhaumik — as a concise introduction to programming fundamentals in Python. Picked up 10 forks, a sign that others found it genuinely useful as a learning resource.
+
+### [guides-github-pull-request](https://github.com/bhaumik/guides-github-pull-request)
+**Language:** — | **Stars:** 1 | **Forks:** 413 | **Created:** September 2014
+
+> **The standout repo in this collection.**
+
+An original guide — written by bhaumik — on how to make great pull requests on GitHub, published via Thinkful. Despite its simplicity, it has accumulated **413 forks**, making it by far the most impactful piece of work in this profile. Written before the data science bootcamp even started, it shows an early instinct for teaching and documentation.
 
 ---
 
@@ -50,12 +57,6 @@ Another personal profile/portfolio site experiment in HTML.
 
 A guide aimed at freelancers. Early evidence of an interest in sharing practical, non-code knowledge with others.
 
-### [guides-github-pull-request](https://github.com/bhaumik/guides-github-pull-request)
-**Language:** — | **Stars:** 1 | **Forks:** 413 | **Updated:** August 2024
-
-> **The standout repo in this collection.**
-
-A guide to making great pull requests on GitHub. Despite being written in 2015, it has accumulated **413 forks** — making it by far the most impactful piece of work in this GitHub profile. It resonated deeply with developers learning collaborative workflows.
 
 ### [creepy-broccoli](https://github.com/bhaumik/creepy-broccoli)
 **Language:** HTML | **Updated:** September 2015
@@ -126,9 +127,9 @@ The most recently active repository. A TypeScript project representing a return 
 
 | Era | Theme | Key Repos |
 |-----|-------|-----------|
-| 2014 | Exploration | `clmtrackr`, `guide-programming-fundamentals-in-python` |
+| 2014 | Exploration + original guides | `clmtrackr`, `guide-programming-fundamentals-in-python`, `guides-github-pull-request` |
 | 2015 (early) | Data Science bootcamp | `hello_world`, `datascience`, `scikit-learn` |
-| 2015 (mid/late) | Guides & personal site | `guides-github-pull-request`, `bhaumik.github.io` |
+| 2015 (mid/late) | Personal site & more guides | `freelancers-guide`, `bhaumik.github.io` |
 | 2016 | Front-end JavaScript | `leoscar`, `jquery-streetfighter`, `addressbook` |
 | 2024–2025 | Return to active dev | `prove`, updated `guides-github-pull-request` |
 
